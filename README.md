@@ -35,3 +35,7 @@ El juego cuenta con sonidos que se ejecutaran, también mediante el control del 
 ## Reparto de tareas en el grupo
 Dado que mis compañeros no aprobaron la evaluación continua y por tanto el trabajo final de la asignatura ya no les era valido,  este proyecto ha sido desarrollado de manera individual,  implementando y construyendo todo lo comentado anteriormente y otras muchas cosas más de forma individual.
 
+## Ejecutables y Apks
+GitHub no deja subir ficheros mayores de 25mb por lo que se ha tenido que subir a Drive y habilitar a cualquier usuario de la universidad para que pueda probarlo y descargarlo
+https://drive.google.com/drive/folders/13P1TdY8H7cO_YUlxgtJovFSWp6I6Acny?usp=sharing
+
