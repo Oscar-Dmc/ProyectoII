@@ -39,3 +39,6 @@ Dado que mis compañeros no aprobaron la evaluación continua y por tanto el tra
 GitHub no deja subir ficheros mayores de 25mb por lo que se ha tenido que subir a Drive y habilitar a cualquier usuario de la universidad para que pueda probarlo y descargarlo
 https://drive.google.com/drive/folders/13P1TdY8H7cO_YUlxgtJovFSWp6I6Acny?usp=sharing
 
+## GamePlay
+Se ha grabado una partida en la versión del pc
+https://www.youtube.com/watch?v=HpIQivQ0tyY&feature=youtu.be
